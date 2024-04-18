@@ -1,0 +1,11 @@
+E:\ООП\4.1\4.1\obj\Debug\_4._1.AddForm.resources
+E:\ООП\4.1\4.1\obj\Debug\_4._1.MainForm.resources
+E:\ООП\4.1\4.1\obj\Debug\_4._1.Properties.Resources.resources
+E:\ООП\4.1\4.1\obj\Debug\4.1.csproj.GenerateResource.cache
+E:\ООП\4.1\4.1\obj\Debug\4.1.csproj.CoreCompileInputs.cache
+E:\ООП\4.1\4.1\bin\Debug\4.1.exe.config
+E:\ООП\4.1\4.1\bin\Debug\4.1.exe
+E:\ООП\4.1\4.1\bin\Debug\4.1.pdb
+E:\ООП\4.1\4.1\obj\Debug\4.1.exe
+E:\ООП\4.1\4.1\obj\Debug\4.1.pdb
+E:\ООП\4.1\4.1\obj\Debug\4.1.csproj.AssemblyReference.cache

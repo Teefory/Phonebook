@@ -1,0 +1,71 @@
+E:\ООП\4.1\4.1\obj\Debug\Phone.csproj.AssemblyReference.cache
+E:\ООП\4.1\4.1\obj\Debug\_4._1.AddForm.resources
+E:\ООП\4.1\4.1\obj\Debug\_4._1.Properties.Resources.resources
+E:\ООП\4.1\4.1\obj\Debug\Phone.csproj.GenerateResource.cache
+E:\ООП\4.1\4.1\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+E:\ООП\4.1\4.1\obj\Debug\4.1.exe
+E:\ООП\4.1\4.1\obj\Debug\4.1.pdb
+E:\ООП\4.1\4.1\bin\Debug\4.1.exe.config
+E:\ООП\4.1\4.1\bin\Debug\4.1.exe
+E:\ООП\4.1\4.1\bin\Debug\4.1.pdb
+E:\ООП\4.1\4.1\obj\Debug\_4._1.Closed.resources
+E:\ООП\4.1\4.1\obj\Debug\_4._1.SearchNameForm.resources
+E:\ООП\4.1\4.1\obj\Debug\_4._1.SearchAdressForm.resources
+E:\ООП\4.1\4.1\obj\Debug\_4._1.PhoneForm.resources
+E:\ООП\4.1\4.1\obj\Debug\_4._1.MainForm.resources
+E:\ООП\4.1\4.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ООП\4.1\4.1\bin\Debug\System.Buffers.dll
+E:\ООП\4.1\4.1\bin\Debug\System.Memory.dll
+E:\ООП\4.1\4.1\bin\Debug\System.Numerics.Vectors.dll
+E:\ООП\4.1\4.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\ООП\4.1\4.1\bin\Debug\System.Text.Encodings.Web.dll
+E:\ООП\4.1\4.1\bin\Debug\System.Text.Json.dll
+E:\ООП\4.1\4.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\ООП\4.1\4.1\bin\Debug\System.ValueTuple.dll
+E:\ООП\4.1\4.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\ООП\4.1\4.1\bin\Debug\System.Buffers.xml
+E:\ООП\4.1\4.1\bin\Debug\System.Memory.xml
+E:\ООП\4.1\4.1\bin\Debug\System.Numerics.Vectors.xml
+E:\ООП\4.1\4.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\ООП\4.1\4.1\bin\Debug\System.Text.Encodings.Web.xml
+E:\ООП\4.1\4.1\bin\Debug\System.Text.Json.xml
+E:\ООП\4.1\4.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\ООП\4.1\4.1\bin\Debug\System.ValueTuple.xml
+E:\ООП\4.1\4.1\obj\Debug\Phone.csproj.CopyComplete
+E:\ООП\4.1\4.1\obj\Debug\_4._1.Closed_form.resources
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\4.1.exe.config
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\4.1.exe
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\4.1.pdb
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Buffers.dll
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Memory.dll
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Numerics.Vectors.dll
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Text.Encodings.Web.dll
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Text.Json.dll
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.ValueTuple.dll
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Buffers.xml
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Memory.xml
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Numerics.Vectors.xml
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Text.Encodings.Web.xml
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Text.Json.xml
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\2 курс\ООП\4.1 (готовое)\4.1\bin\Debug\System.ValueTuple.xml
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\Phone.csproj.AssemblyReference.cache
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\Phone.csproj.SuggestedBindingRedirects.cache
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\_4._1.AddForm.resources
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\_4._1.Closed.resources
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\_4._1.Closed_form.resources
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\_4._1.MainForm.resources
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\_4._1.Properties.Resources.resources
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\_4._1.SearchAdressForm.resources
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\_4._1.SearchNameForm.resources
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\_4._1.PhoneForm.resources
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\Phone.csproj.GenerateResource.cache
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\Phone.csproj.CopyComplete
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\4.1.exe
+E:\2 курс\ООП\4.1 (готовое)\4.1\obj\Debug\4.1.pdb
